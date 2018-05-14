@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bouncy</string>
+
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="ayuda">Help</string>
+    <string name="texto_ayuda">
+
+        The purpose of the game is to avoid the ball touches the floor, to do it you have to touch the ball with your finger  \n\n
+        TO push the ball in a certain direction, you should touch the screen in the opposite direction
+
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ Ánimo!!
+</string>
+
+
+
+</resources>
